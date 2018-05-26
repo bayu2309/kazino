@@ -1,6 +1,6 @@
 const config = {
-  channelAccessToken: "cZ+cqwGJWEMSpk60KqpIhODQjAvVCudo6m5hdhnFrObmh/y+puXvsfTqP1DqbaszAt9T/GIpiVOpNJeeTfUKiG/jnAD+JhsSV8fiaB1AizQMyX+XpT3FYgcdqH7fdKC8lS2WMlq7KE1As6gLP1x88wdB04t89/1O/w1cDnyilFU=",
-  channelSecret: "fd6cbd9adca152ba8a63b150dc4b2205"
+  channelAccessToken: "n0O2nlKw1qVyQn2dImAmGp/sGSNsPscreAuicXAQWXKnf+J1246XDnm6UeLYQNsQAt9T/GIpiVOpNJeeTfUKiG/jnAD+JhsSV8fiaB1AizTyeD6FCdUjoovMC67KhCKmvgqqCZxgDSLTCwauyx0M9AdB04t89/1O/w1cDnyilFU=",
+  channelSecret: "59d5136d119ede2d4cb027f0b6fcdafb"
 };
 
 export default config;
